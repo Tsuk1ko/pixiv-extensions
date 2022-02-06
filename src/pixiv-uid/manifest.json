@@ -1,6 +1,6 @@
 {
   "name": "Pixiv UID 跳转",
-  "description": "在网页上选中一段 UID 文字，右击选择“Pixiv UID”即可直接跳转至用户页面",
+  "description": "便捷跳转至 UID 对应的用户页面",
   "version": "1.0.0",
   "manifest_version": 3,
   "icons": {

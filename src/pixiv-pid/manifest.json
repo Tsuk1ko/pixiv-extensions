@@ -1,6 +1,6 @@
 {
   "name": "Pixiv PID 跳转",
-  "description": "在网页上选中一段 PID 文字，右击选择“Pixiv PID”即可直接跳转至作品页面",
+  "description": "便捷跳转至 PID 对应的作品页面",
   "version": "1.0.0",
   "manifest_version": 3,
   "icons": {
